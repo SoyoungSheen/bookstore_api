@@ -112,10 +112,11 @@ section {
 }
 
 .logo2 {
-	width: 10rem;
-	height: 5rem;
+	width: 12rem;
+	height: 7.5rem;
 	background-color: #f7eeff;
 	border-radius: 1rem;
+	padding: 1rem;
 }
 
 .logo2 img {
