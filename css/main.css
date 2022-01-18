@@ -78,7 +78,7 @@ section {
 
 .introduce {
 	width: 40rem;
-	height: 40rem;
+	height: 60rem;
 }
 .svg1 {
 	width: 80rem;
@@ -109,6 +109,26 @@ section {
 	width: 100%;
 	height: 30rem;
 	background-color: #a451f7;
+}
+
+.logo2 {
+	width: 10rem;
+	height: 5rem;
+	background-color: #cccccc;
+	border-radius: 2rem;
+}
+
+.logo2 img {
+	width: 10rem;
+	height: 5rem;
+}
+
+.wrap-logo2 {
+	width: 20rem;
+	height: 36rem;
+
+	display: flex;
+	align-items: flex-end;
 }
 
 #advantages {
