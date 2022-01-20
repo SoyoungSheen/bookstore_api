@@ -63,7 +63,7 @@
 
 section {
 	width: 100%;
-	height: 340rem;
+	height: 400rem;
 	background-color: orange;
 }
 
@@ -152,7 +152,7 @@ section {
 
 #text {
 	width: 100%;
-	height: 100rem;
+	height: 80rem;
 	background-color: lightgreen;
 	display: flex;
 	align-items: center;
@@ -243,10 +243,127 @@ section {
 	background-color: gold;
 }
 
+#text-2nd {
+	width: 100%;
+	height: 50rem;
+	background-color: #dbb4ff;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.unlimited {
+	font-size: 5rem;
+	font-weight: bold;
+	line-height: 8rem;
+}
+
+.new-books {
+	font-size: 2rem;
+	line-height: 4rem;
+	color: gray;
+}
+
 #best-seller {
 	width: 100%;
-	height: 40rem;
+	height: 50rem;
 	background-color: blue;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.box-best {
+	width: 70%;
+	height: 40rem;
+	background-color: cadetblue;
+}
+
+.box-books {
+	width: 100%;
+	height: 30rem;
+	background-color: chocolate;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.box-text {
+	font-weight: 800;
+	font-size: 2rem;
+}
+
+.book1 {
+	width: 20rem;
+	height: 23rem;
+	background-color: cornsilk;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	font-size: 2rem;
+	cursor: pointer;
+}
+
+.book-name {
+	width: 100%;
+	height: 2rem;
+	background-color: cyan;
+}
+
+.book2 {
+	width: 20rem;
+	height: 23rem;
+	background-color: cornsilk;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	font-size: 2rem;
+	cursor: pointer;
+}
+
+.book3 {
+	width: 20rem;
+	height: 23rem;
+	background-color: cornsilk;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	font-size: 2rem;
+	cursor: pointer;
+}
+
+.book4 {
+	width: 20rem;
+	height: 23rem;
+	background-color: cornsilk;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	font-size: 2rem;
+	cursor: pointer;
+}
+
+.book5 {
+	width: 20rem;
+	height: 23rem;
+	background-color: cornsilk;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	font-size: 2rem;
+	cursor: pointer;
+}
+
+.book6 {
+	width: 20rem;
+	height: 23rem;
+	background-color: cornsilk;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	font-size: 2rem;
+	cursor: pointer;
 }
 
 #new-books {
